@@ -1,0 +1,7 @@
+C:\Users\EGPR\source\repos\ZKI\AES\AES\bin\Debug\AES.exe.config
+C:\Users\EGPR\source\repos\ZKI\AES\AES\bin\Debug\AES.exe
+C:\Users\EGPR\source\repos\ZKI\AES\AES\bin\Debug\AES.pdb
+C:\Users\EGPR\source\repos\ZKI\AES\AES\obj\Debug\AES.csprojAssemblyReference.cache
+C:\Users\EGPR\source\repos\ZKI\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+C:\Users\EGPR\source\repos\ZKI\AES\AES\obj\Debug\AES.exe
+C:\Users\EGPR\source\repos\ZKI\AES\AES\obj\Debug\AES.pdb
