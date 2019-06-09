@@ -1,0 +1,7 @@
+C:\Users\EGPR\source\repos\ZKI\TempNoteBook\TempNoteBook\bin\Debug\TempNoteBook.exe.config
+C:\Users\EGPR\source\repos\ZKI\TempNoteBook\TempNoteBook\bin\Debug\TempNoteBook.exe
+C:\Users\EGPR\source\repos\ZKI\TempNoteBook\TempNoteBook\bin\Debug\TempNoteBook.pdb
+C:\Users\EGPR\source\repos\ZKI\TempNoteBook\TempNoteBook\obj\Debug\TempNoteBook.csprojAssemblyReference.cache
+C:\Users\EGPR\source\repos\ZKI\TempNoteBook\TempNoteBook\obj\Debug\TempNoteBook.csproj.CoreCompileInputs.cache
+C:\Users\EGPR\source\repos\ZKI\TempNoteBook\TempNoteBook\obj\Debug\TempNoteBook.exe
+C:\Users\EGPR\source\repos\ZKI\TempNoteBook\TempNoteBook\obj\Debug\TempNoteBook.pdb
