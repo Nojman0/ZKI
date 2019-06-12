@@ -33,7 +33,7 @@ namespace rsa
             Console.WriteLine();
             Console.WriteLine();
             string newline2 = Encoding.UTF8.GetString(enbytes);
-            Console.WriteLine(newline2);
+
             byte[] debytes = rsa.Decrypt(enbytes, true);
             for (int i = 0; i < debytes.Length; i++)
             {
